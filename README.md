@@ -21,11 +21,11 @@ Sistema completamente desenvolvido durante a Next Level Week 1, evento promovido
 - Upload de imagens
 - Single Page Application
 - Mapas e geolocalização
-- React Rooks
+- React Hooks
 
 ## Mobile
 - [React Native](https://reactnative.dev/)
 - Conexão com APIs REST
 - Mapas e geolocalização
 - Expo
-- React Rooks
+- React Hooks
